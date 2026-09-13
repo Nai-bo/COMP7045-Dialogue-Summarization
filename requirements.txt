@@ -1,0 +1,11 @@
+datasets
+transformers
+rouge-score
+nltk
+sumy
+evaluate
+accelerate
+torch
+numpy
+pandas
+matplotlib
